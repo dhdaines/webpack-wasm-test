@@ -5,7 +5,7 @@ module.exports = {
   mode: 'development',
   devtool: false,
   output: {
-    filename: './bundle.js',
+    filename: './index.js',
     clean: true,
     path: path.resolve(__dirname, "dist-es6"),
   },
