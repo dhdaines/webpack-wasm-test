@@ -13,6 +13,7 @@
   "scripts": {
     "test": "node ./main.mjs"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "David Huggins-Daines <dhdaines@ecolingui.ca>",
+  "repository": "https://github.com/dhdaines/webpack-wasm-test",
+  "license": "MIT"
 }
