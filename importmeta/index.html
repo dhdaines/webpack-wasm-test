@@ -1,0 +1,6 @@
+<pre id="output">
+</pre>
+<script type="module">
+  const pre = document.getElementById("output");
+  pre.innerHTML += new URL("./", import.meta.url).href;
+</script>  
