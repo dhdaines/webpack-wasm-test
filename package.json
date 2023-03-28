@@ -1,0 +1,17 @@
+{
+  "name": "wasmtest",
+  "version": "1.0.0",
+  "description": "test webpack + emscripten",
+  "main": "index.mjs",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^5.76.3",
+    "webpack-cli": "^5.0.1",
+    "webpack-dev-server": "^4.13.1"
+  },
+  "scripts": {
+    "test": "node ./main.mjs"
+  },
+  "author": "",
+  "license": "ISC"
+}
